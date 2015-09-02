@@ -1,0 +1,20 @@
+Sommaire :
+-Remplacer "Qu'est-ce que Walkabout?" par autre chose
+
+Projet :
+-Environnement du site : contraster voyage de masse avec nos voyages
+
+Charte Graphique :
+-Pourquoi le jaune ?
+
+Ergonomie :
+-
+-Responsive : site lisible sur tout périphérique -> transportable
+-Navbar qui s'affix : éviter de remonter en haut de page
+-Footer
+-Accès à des visuels carnets dès page d'accueil -> Mise en avant du point central
+-Map : accès aux destinations directement dès la page d'accueil avec redirections
+
+
+Sitemap :
+-Grossir les petits flaps pour une meilleure visiblité
